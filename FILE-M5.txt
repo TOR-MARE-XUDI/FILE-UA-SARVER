@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/445.0.0.34.118;FBBV/448015004;FBDM/{density=2.0,width=720,height=1600};FBLC/en_US;FBCR/Nepal Telecom;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix_X6511B;FBSV/11;FBOP/1;FBCA/armeabi-v7a:armeabi;]
