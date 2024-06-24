@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/436.0.0.10.101;FBBV/446210514;FBDM/{density=1.5,width=720,height=1612};FBLC/en_US;FBCR/Banglalink;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-KJ5;FBSV/13;FBOP/1;FBCA/armeabi-v7a:armeabi;]
